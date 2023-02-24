@@ -3,11 +3,12 @@
 This application is meant to be a practical prank on someone who is easily fooled. The user is asked whether they want to know how to keep a gullible person entertained for hours. If the user replies with 'yes' or 'y,' the computer will continue to ask the same question. If the user enters a 'no' or 'n' response, the application exits the loop. If the user inputs an answer that is not a 'yes' or a 'no,' the application notifies them that their response is invalid.
 
 ## Table of Contents
-•	How to Install and Run.
-•	How to Use.
-•	How to Contribute.
-•	Extra Points.
-•	Conclusion.
+1.	How to Install and Run
+2.	How to Use
+3.	How to Contribute
+4.	Extra Points
+5.	Conclusion
+
 
 ## How to Install and Run
 Just run the code in a Python environment to run this application.
@@ -19,9 +20,10 @@ Once the application is launched, simply follow the on-screen instructions to wi
 This application is a basic script with no additions required.
 
 ## Extra Points
-•	Modify the code to perform a different prank.
-•	Use a timer to halt the prank after a set length of time.
-•	Provide a tool that allows the user to tailor the prank message.
+1.	Modify the code to perform a different prank.
+2.	Use a timer to halt the prank after a set length of time.
+3.	Provide a tool that allows the user to tailor the prank message.
+
 
 ## Conclusion
 Thank you for making use of Prankster's Paradise. Have fun pulling pranks on your mates, but remember to utilize your abilities for good rather than evil.
