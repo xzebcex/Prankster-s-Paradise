@@ -3,11 +3,11 @@
 This application is meant to be a practical prank on someone who is easily fooled. The user is asked whether they want to know how to keep a gullible person entertained for hours. If the user replies with 'yes' or 'y,' the computer will continue to ask the same question. If the user enters a 'no' or 'n' response, the application exits the loop. If the user inputs an answer that is not a 'yes' or a 'no,' the application notifies them that their response is invalid.
 
 ## Table of Contents
-•	How to Install and Run
-•	How to Use
-•	How to Contribute
-•	Extra Points
-•	Conclusion
+•	How to Install and Run.
+•	How to Use.
+•	How to Contribute.
+•	Extra Points.
+•	Conclusion.
 
 ## How to Install and Run
 Just run the code in a Python environment to run this application.
